@@ -4,7 +4,11 @@ This is my first project on Github - A look into the shot map of two prolific go
 Let's look at how different were these 2 prolific strikers from each other.
 
 References:
+
 https://www.youtube.com/watch?v=oOAnERLiN5U&list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7&index=4
 https://www.youtube.com/watch?v=VbisEW4r56g&list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7&index=7
-I would highly recommend any football lover to go through the videos.
 
+
+I would highly recommend any football lover to go through the videos. Please do suggest any improvements that could be made to the above code.
+
+Data Source: Statsbomb.
